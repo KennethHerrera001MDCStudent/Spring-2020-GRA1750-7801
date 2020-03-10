@@ -1,0 +1,59 @@
+body{
+	background-color: #fff7de;
+	margin: 0;
+	padding: 0
+}
+
+#margin-left{
+	margin-left: 30px
+}
+
+#green_heading{
+	background-color: #b2ffbf;
+	height: 70px;
+	vertical-align: middle;
+	margin-top: -30px
+}
+
+#troop_457{
+	color: #364d39;
+	font-family: Helvetica Neue;
+	font-weight: bold;
+	font-size: 24pt;
+	margin-left: 15px;
+	padding: 15px
+}
+
+#event_name{
+	color: #364d39;
+	font-family: Helvetica Neue;
+	font-weight: bold;
+	font-size: 24pt
+}
+
+.header{
+	color: #364d39;
+	font-family: Helvetica Neue;
+	font-weight: bold;
+	font-size: 16pt
+}
+
+.body{
+	color: black;
+	font-family: Kefa;
+	font-size: 19.2pt
+}
+
+#button{
+	background-color: #b2ffbf;
+	color: #364d39;
+	font-family: Helvetica Neue;
+	font-size: 18pt;
+	margin-left: 450px;
+	width: 350px
+}
+
+a:link, a:visited, a:hover, a:active {
+  color: #364d39;
+  text-decoration: none
+}

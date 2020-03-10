@@ -1,0 +1,53 @@
+body{
+	background-image: url("Dungeon Brick Pattern.png");
+	background-color: #919191;
+	margin: 0;
+	padding: 0
+}
+
+#navigation_buttons{
+	width: 1140px;
+	padding: 0;
+	
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 80px
+}
+
+#navigation_buttons ul{
+	list-style-type: none;
+	display: inline;
+	margin-left: -20px
+}
+
+#navigation_buttons ul li{
+	background-color: #919191;
+	display: inline;
+	margin-right: 40px;
+	padding-left: 10px;
+	padding-right:10px;
+
+	border-style: outset;
+	border-width: 6px;
+	border-color: #666;
+
+	font-family: "helvetica", sans-serif;
+	font-size: 40px
+}
+	
+#navigation_buttons ul li a{
+	text-decoration: none;
+	color: #bfbfbf
+}
+
+#navigation_buttons ul li a:hover{
+	text-decoration: none;
+	color: #cccc52;
+	transition: .5s
+}
+
+#navigation_buttons ul li a:active{
+	text-decoration: none;
+	color: #cccca3;
+
+}

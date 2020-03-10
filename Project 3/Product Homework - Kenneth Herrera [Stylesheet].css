@@ -1,0 +1,70 @@
+body{margin: 0;
+	padding: 0;
+	background-color: #0d0d0d
+}
+
+#Main_Container{
+	background-color: #181818;
+	width: 900px;
+	height: 3000px;
+	margin: 0 auto
+}
+
+.Product_Container{
+	width: 95%;
+	padding-top: 0%;
+	margin: 0 auto;
+}
+
+.Product_Container img{
+	width: 100%
+}
+
+.Product_Container img[alt="Lenovo [Stand]"]{
+	width: 100%;
+	margin: 5% auto;
+}
+
+#Title{	
+	margin: 0 auto;
+	font: Arial;
+	font-family: Arial;
+	font-size: 28pt;
+	color: #ffffff;
+	padding-top: 15px;
+}
+
+.Heading{
+	margin: 0 auto;
+	margin-left: 18pt;
+	font: Arial;
+	font-family: Arial;
+	font-size: 20pt;
+	color: #ffffff;
+	line-height: 120%;
+	padding-bottom: 5px;
+}
+
+.Product_Container p{
+	font: Arial;
+	font-family: Arial;
+	font-size: 14pt;
+	color: #ffffff;
+	line-height: 120%
+}
+
+#Warning{
+	font: Arial;
+	font-family: Arial;
+	font-size: 14pt;
+	color: #ff0000;
+	margin-left: 20px
+}
+
+.Link{
+	font: Arial;
+	font-family: Arial;
+	font-size: 14pt;
+	line-height: 120%;
+	margin-left: 20px 
+}
